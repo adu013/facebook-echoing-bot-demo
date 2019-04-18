@@ -1,0 +1,21 @@
+{
+  "name": "facebook-echoing-bot-demo",
+  "version": "1.0.0",
+  "description": "This is a demo of a echoing bot for facebook, hosted on AWS lambda(serverless framework)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "chatbot",
+    "bot",
+    "facebook",
+    "chatbot",
+    "lambda"
+  ],
+  "author": "arindam",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}

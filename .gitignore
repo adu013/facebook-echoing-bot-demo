@@ -1,0 +1,10 @@
+# node environments
+node_modules
+lib
+.env
+
+# serverless files
+.serverless
+
+# DS_Store
+**/.DS_Store
